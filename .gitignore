@@ -1,0 +1,13 @@
+settings.py
+post_tweet.sh
+
+*.swp
+*.pyc
+.DS_Store
+.Python
+pip-selfcheck.json
+
+# virtualenv
+bin/
+include/
+lib/
