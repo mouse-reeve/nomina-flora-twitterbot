@@ -1,5 +1,5 @@
-''' tweets out fake facts '''
-from NominaFlora import NominaFlora
+''' tweets out flower names '''
+from nominaflora.NominaFlora import NominaFlora
 
 import settings
 import tweepy
